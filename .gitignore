@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea
+
+__pycache__
+
+dataset
+
+.DS_Store
